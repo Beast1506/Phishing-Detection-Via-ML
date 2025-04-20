@@ -143,6 +143,4 @@ if st.session_state.history:
             )
 
 
-# ---------- Footer ----------
-st.markdown("---")
-st.markdown("Made with ❤️ using [Streamlit](https://streamlit.io)")
+
