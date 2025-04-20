@@ -34,5 +34,8 @@ This web app helps users identify whether a given URL is **legitimate** or poten
 4. The app displays the result with a confidence percentage.
 
 ---
-
+## 📄 License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this software with proper attribution.
+See the LICENSE file for more details.
 
