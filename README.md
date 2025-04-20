@@ -16,4 +16,23 @@ This web app helps users identify whether a given URL is **legitimate** or poten
 
 ---
 
+---
+
+## 🧪 How It Works
+
+1. User inputs a full URL (with `http://` or `https://`)
+2. The app extracts meaningful features from the URL such as:
+   - Length of URL and domain
+   - Number of special characters
+   - Use of suspicious keywords
+   - Domain entropy
+   - HTTPS presence
+   - etc.
+3. A trained Random Forest model classifies the URL as either:
+   - ✅ **Legitimate**
+   - ❌ **Phishing**
+4. The app displays the result with a confidence percentage.
+
+---
+
 
